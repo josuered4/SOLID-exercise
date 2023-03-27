@@ -1,0 +1,15 @@
+/home/josuered4/Escritorio/exercice/SOLID/bin/Debug/net6.0/SOLID
+/home/josuered4/Escritorio/exercice/SOLID/bin/Debug/net6.0/SOLID.deps.json
+/home/josuered4/Escritorio/exercice/SOLID/bin/Debug/net6.0/SOLID.runtimeconfig.json
+/home/josuered4/Escritorio/exercice/SOLID/bin/Debug/net6.0/SOLID.dll
+/home/josuered4/Escritorio/exercice/SOLID/bin/Debug/net6.0/ref/SOLID.dll
+/home/josuered4/Escritorio/exercice/SOLID/bin/Debug/net6.0/SOLID.pdb
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.csproj.AssemblyReference.cache
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfoInputs.cache
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfo.cs
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.csproj.CoreCompileInputs.cache
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.dll
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/ref/SOLID.dll
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.pdb
+/home/josuered4/Escritorio/exercice/SOLID/obj/Debug/net6.0/SOLID.genruntimeconfig.cache
